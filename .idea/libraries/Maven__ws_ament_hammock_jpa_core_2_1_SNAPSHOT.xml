@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ws.ament.hammock:jpa-core:2.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ws/ament/hammock/jpa-core/2.1-SNAPSHOT/jpa-core-2.1-20180218.132645-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ws/ament/hammock/jpa-core/2.1-SNAPSHOT/jpa-core-2.1-20180218.132645-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ws/ament/hammock/jpa-core/2.1-SNAPSHOT/jpa-core-2.1-20180218.132645-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

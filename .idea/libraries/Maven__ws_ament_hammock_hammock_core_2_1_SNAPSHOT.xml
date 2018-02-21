@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ws.ament.hammock:hammock-core:2.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ws/ament/hammock/hammock-core/2.1-SNAPSHOT/hammock-core-2.1-20180218.132656-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ws/ament/hammock/hammock-core/2.1-SNAPSHOT/hammock-core-2.1-20180218.132656-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ws/ament/hammock/hammock-core/2.1-SNAPSHOT/hammock-core-2.1-20180218.132656-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
